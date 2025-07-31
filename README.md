@@ -33,8 +33,6 @@ python-challenge-arena/
     └── README.md
 ```
 
-## 🎥 Demo Video
-[Watch the complete walkthrough](https://your-video-link-here.com)
 
 ---
 
